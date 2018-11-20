@@ -1,0 +1,23 @@
+{
+    "users" :
+  [
+      {
+      "name": "Pedro Pérez",
+      "stars": "4",
+      "category": "Instalación y Mantenimiento",
+      "subcategories": "Componentes del Hogar"
+      },
+      {
+      "name": "Juan Alvarez",
+      "stars": "4",
+      "category": "Instalación y Mantenimiento",
+      "subcategories": "Equipos de Cómputor"
+      },
+      {
+      "name": "Mónica Rivera",
+      "stars": "5",
+      "category": "Limpieza",
+      "subcategories": "Hogar"
+    }
+  ]
+  }
